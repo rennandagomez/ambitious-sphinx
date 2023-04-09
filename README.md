@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update neural-magic.md (#7347)
