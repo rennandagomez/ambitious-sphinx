@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update Twitter icon in Docs (#7711)
