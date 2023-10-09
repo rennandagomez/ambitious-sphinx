@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
