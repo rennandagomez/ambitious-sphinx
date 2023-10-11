@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
