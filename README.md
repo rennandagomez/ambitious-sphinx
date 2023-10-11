@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Updated SQL Query Plot Code (#8120)
