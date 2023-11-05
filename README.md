@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+New test for labels and crops (#8861)
