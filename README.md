@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Fix Yolo 8.0.206 scale bug (#7821)
