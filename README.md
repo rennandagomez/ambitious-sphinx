@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add settings runs_dir == datasets_dir warning (#8653)
