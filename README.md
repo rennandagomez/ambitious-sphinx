@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add Weights & Biases Docs integrations page (#7199)
