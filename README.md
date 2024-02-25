@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Rename model_id to model.id (#8447)
