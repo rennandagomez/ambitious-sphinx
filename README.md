@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Update neural-magic.md (#7347)
