@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Fix OpenVINO links (#7930)
