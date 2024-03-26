@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Feature: Create HUB Models from CLI or Python Script (#7316)
