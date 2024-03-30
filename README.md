@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update pyproject.toml and Docs (#7274)
