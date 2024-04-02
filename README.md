@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Model typehints Docker fix (#8306)
