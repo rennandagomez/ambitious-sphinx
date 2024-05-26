@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Update Colab notebook for YOLOv8.1 (#8660)
