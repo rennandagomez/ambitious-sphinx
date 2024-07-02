@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update Discord and Contributing Guide URLs (#9270)
