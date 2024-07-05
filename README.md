@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add quantization support to TensorFlow.js converter (#7008)
