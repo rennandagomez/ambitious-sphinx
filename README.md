@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Merge pull request #22 from SkalskiP/patch-1
