@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
