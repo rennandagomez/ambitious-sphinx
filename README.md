@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Avoid creating -hub dir without processing images (#8334)
